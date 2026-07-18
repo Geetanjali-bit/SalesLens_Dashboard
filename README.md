@@ -19,13 +19,13 @@ The dashboard analyzes retail sales data across products, brands, states, zones,
 
 | Home Dashboard | Financial Statistics |
 |---|---|
-| ![Home](screenshots/dashboard-home.png) | ![Financial](screenshots/financial-statistics.png) |
+| ![Home](screenshots/Home.png) | ![Financial](screenshots/Financial.png) |
 
 | Sales Analysis | Geographic Distribution | Timeline Statistics |
 |---|---|---|
-| ![Sales](screenshots/sales-analysis.png) | ![Geographic](screenshots/geographic-distribution.png) | ![Timeline](screenshots/timeline-statistics.png) |
+| ![Sales](screenshots/Sales.png) | ![Geographic](screenshots/Geographic.png) | ![Timeline](screenshots/Timeline.png) |
 
-*(Add your screenshots to a `screenshots/` folder in the repo and update the file names above to match.)*
+
 
 ---
 
